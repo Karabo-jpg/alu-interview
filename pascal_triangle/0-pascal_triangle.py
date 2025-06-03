@@ -6,6 +6,9 @@ This module provides a function to create Pascal's Triangle up to n rows.
 Each row is represented as a list of integers.
 """
 
+
+
+
 def pascal_triangle(n):
     """
     Generate Pascal's Triangle up to n rows.
